@@ -27,13 +27,13 @@
   "author": "Incloud Engineering GmbH",
   "license": "MIT",
   "dependencies": {
-    "@types/eslint": "^8.40.2"
+    "@types/eslint": "^7.11.0"
   },
   "peerDependencies": {
     "@babel/eslint-parser": "^7.22.5",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
-    "eslint": "^8.44.0",
+    "eslint": "^7.11.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-flowtype": "^8.0.3",
